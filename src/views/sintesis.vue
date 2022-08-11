@@ -3,14 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .row.justify-content-end.mb-5
-      .col-lg-11       
-        .titulo-sexto.color-acento-contenido.bg_color4
-          h3 Saneamiento y salud ambiental
-      .col-lg-1
-        figure
-          img(src="@/assets/template/logo-sena-naranja.svg")
-
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

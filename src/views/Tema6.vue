@@ -31,7 +31,7 @@
     p.mb-4 Esta norma no es de carácter obligatorio, ya que cada organización está en la potestad de decidir si desea implementarla o no. Fue llevada a cabo por la International Organization for Standardization (ISO) en la ciudad de Ginebra, Suiza. Está orientada para que pueda ser aplicada a cualquier tipo de organización, independientemente del sector, las dimensiones, la situación geográfica, cultural y social.
 
     .row.justify-content-center.mb-4
-      .col-lg-10
+      .col-lg-10.col-xl-12.col-xxl-10
         .bg_12.p-4.mb-5
           .row.justify-content-end
             .col-lg-6
@@ -182,7 +182,7 @@
               img(src='@/assets/curso/tema6/img07.svg', alt='Texto que describa la imagen')
 
     .row.justify-content-center.mb-5         
-      .col-lg-6
+      .col-lg-7.col-xl-8.col-xxl-7
         p Dentro de un plan de acción se deben determinar los roles y actores de la siguiente manera:
 
     .tarjeta--container.row.mb-5
