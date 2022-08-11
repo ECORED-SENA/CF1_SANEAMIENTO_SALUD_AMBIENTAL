@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_874752" data-name="Grupo 874752" transform="translate(-510 -1148)">
+    <circle id="Elipse_4712" data-name="Elipse 4712" cx="42.5" cy="42.5" r="42.5" transform="translate(510 1148)" fill="#fff"/>
+    <g id="diario" transform="translate(464 1163.979)">
+      <g id="Grupo_151701" data-name="Grupo 151701" transform="translate(71.07 9.167)">
+        <path id="Trazado_212258" data-name="Trazado 212258" d="M186.413,78.11V70.022A2.019,2.019,0,0,0,184.391,68H162.822a2.019,2.019,0,0,0-2.022,2.022V78.11a2.019,2.019,0,0,0,2.022,2.022h21.569A2.019,2.019,0,0,0,186.413,78.11Zm-2.7-.674H163.5V70.7h20.221Z" transform="translate(-157.416 -68)"/>
+        <path id="Trazado_212259" data-name="Trazado 212259" d="M293.185,240.11v-8.088A2.019,2.019,0,0,0,291.163,230h-9.841a2.019,2.019,0,0,0-2.022,2.022v8.088a2.019,2.019,0,0,0,2.022,2.022h9.841A2.019,2.019,0,0,0,293.185,240.11Zm-2.7-.674H282V232.7h8.493Z" transform="translate(-259.942 -208.161)"/>
+        <path id="Trazado_212260" data-name="Trazado 212260" d="M149.585,240.11v-8.088A2.019,2.019,0,0,0,147.563,230h-9.841a2.019,2.019,0,0,0-2.022,2.022v8.088a2.019,2.019,0,0,0,2.022,2.022h9.841A2.019,2.019,0,0,0,149.585,240.11Zm-2.7-.674H138.4V232.7h8.493Z" transform="translate(-135.7 -208.161)"/>
+        <path id="Trazado_212261" data-name="Trazado 212261" d="M197.583,178.2H179.1c-1.051,0-1.9.607-1.9,1.348s.849,1.348,1.9,1.348h18.482c1.051,0,1.9-.607,1.9-1.348S198.634,178.2,197.583,178.2Z" transform="translate(-171.606 -163.344)"/>
+        <path id="Trazado_212262" data-name="Trazado 212262" d="M245.8,146.748v4.422a1.348,1.348,0,0,0,2.7,0v-4.422a1.348,1.348,0,0,0-2.7,0Z" transform="translate(-230.958 -134.966)"/>
+        <path id="Trazado_212263" data-name="Trazado 212263" d="M322.5,179.548v5.9a1.348,1.348,0,1,0,2.7,0v-5.9a1.348,1.348,0,0,0-2.7,0Z" transform="translate(-297.318 -163.344)"/>
+        <path id="Trazado_212264" data-name="Trazado 212264" d="M177.2,179.548v5.9a1.348,1.348,0,1,0,2.7,0v-5.9a1.348,1.348,0,1,0-2.7,0Z" transform="translate(-171.606 -163.344)"/>
+      </g>
+      <g id="Grupo_151702" data-name="Grupo 151702" transform="translate(74.481 47.452)">
+        <path id="Trazado_212265" data-name="Trazado 212265" d="M248.251,392h-13.1a1.348,1.348,0,0,0,0,2.7h13.1a1.348,1.348,0,1,0,0-2.7Z" transform="translate(-223.986 -386.608)"/>
+        <path id="Trazado_212266" data-name="Trazado 212266" d="M162.348,394.7h4.422a1.348,1.348,0,0,0,0-2.7h-4.422a1.348,1.348,0,0,0,0,2.7Z" transform="translate(-161 -386.608)"/>
+        <path id="Trazado_212267" data-name="Trazado 212267" d="M162.348,434.7h22.917a1.348,1.348,0,0,0,0-2.7H162.348a1.348,1.348,0,0,0,0,2.7Z" transform="translate(-161 -421.216)"/>
+        <path id="Trazado_212268" data-name="Trazado 212268" d="M162.348,354.7h22.917a1.348,1.348,0,0,0,0-2.7H162.348a1.348,1.348,0,0,0,0,2.7Z" transform="translate(-161 -352)"/>
+      </g>
+      <circle id="Elipse_4719" data-name="Elipse 4719" cx="1.5" cy="1.5" r="1.5" transform="translate(111 13.02)"/>
+      <g id="Grupo_151703" data-name="Grupo 151703" transform="translate(61)">
+        <path id="Trazado_212269" data-name="Trazado 212269" d="M432.348,141A1.352,1.352,0,0,0,431,142.348V165.13h2.7V142.348A1.352,1.352,0,0,0,432.348,141Z" transform="translate(-381.122 -121.992)"/>
+        <path id="Trazado_212270" data-name="Trazado 212270" d="M112.226,10.919a1.352,1.352,0,0,0,1.348-1.348V2.7a2.7,2.7,0,0,0-2.7-2.7H63.7A2.7,2.7,0,0,0,61,2.7V66.324a2.7,2.7,0,0,0,2.7,2.7h47.182a2.7,2.7,0,0,0,2.7-2.7V42.41h-2.7V66.324H63.7V2.7h47.182V9.571A1.352,1.352,0,0,0,112.226,10.919Z" transform="translate(-61)"/>
+      </g>
+    </g>
+  </g>
+</svg>

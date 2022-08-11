@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Grupo_874754" data-name="Grupo 874754" transform="translate(-758 -1148)">
+    <circle id="Elipse_4713" data-name="Elipse 4713" cx="42.5" cy="42.5" r="42.5" transform="translate(758 1148)" fill="#fff"/>
+    <g id="arbols" transform="translate(713 1164.015)">
+      <circle id="Elipse_4718" data-name="Elipse 4718" cx="1.348" cy="1.348" r="1.348" transform="translate(61 52.675)"/>
+      <path id="Trazado_212252" data-name="Trazado 212252" d="M62.348,216.129a1.352,1.352,0,0,0,1.348-1.348V192H61v22.781A1.352,1.352,0,0,0,62.348,216.129Z" transform="translate(0 -166.15)"/>
+      <g id="Grupo_151699" data-name="Grupo 151699" transform="translate(71.557 13.168)">
+        <path id="Trazado_212253" data-name="Trazado 212253" d="M218.271,187.7a1.44,1.44,0,0,0-2.022,0l-3.114,3.114V184.26a1.454,1.454,0,0,0-1.564-1.294,1.437,1.437,0,0,0-1.294,1.294v6.565l-3.127-3.127a1.433,1.433,0,0,0-2.022,2.022l5.163,5.163v17.941a1.454,1.454,0,0,0,1.564,1.294,1.437,1.437,0,0,0,1.294-1.294V194.855l5.149-5.149A1.449,1.449,0,0,0,218.271,187.7Z" transform="translate(-195.952 -171.497)"/>
+        <path id="Trazado_212254" data-name="Trazado 212254" d="M160.761,128.028a1.436,1.436,0,0,1-.58-2.682,12.848,12.848,0,1,0-10.285,0,1.458,1.458,0,1,1-1.146,2.682,15.707,15.707,0,1,1,12.563,0A1.274,1.274,0,0,1,160.761,128.028Z" transform="translate(-139.317 -97.917)"/>
+      </g>
+      <g id="Grupo_151700" data-name="Grupo 151700" transform="translate(61 -0.031)">
+        <path id="Trazado_212255" data-name="Trazado 212255" d="M63.7,2.7H104.62L102.585,0H63.7A2.7,2.7,0,0,0,61,2.7V26.609h2.7Z" transform="translate(-61)"/>
+        <path id="Trazado_212256" data-name="Trazado 212256" d="M110.875,81.1v55.388H63.7v-6.875a1.348,1.348,0,1,0-2.7,0v6.875a2.7,2.7,0,0,0,2.7,2.7h47.179a2.7,2.7,0,0,0,2.7-2.7V84.645Z" transform="translate(-61 -70.168)"/>
+      </g>
+      <path id="Trazado_212257" data-name="Trazado 212257" d="M372.857,15.606h0a1.34,1.34,0,0,1-1.874-.324L361.588,2.1a1.346,1.346,0,0,1,.323-1.887h0a1.34,1.34,0,0,1,1.874.324l9.4,13.183A1.356,1.356,0,0,1,372.857,15.606Z" transform="translate(-259.853)"/>
+    </g>
+  </g>
+</svg>
