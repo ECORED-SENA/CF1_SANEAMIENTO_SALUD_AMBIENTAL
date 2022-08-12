@@ -11,15 +11,15 @@
 
     .bg_13.p-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-5
+        .col-lg-5(data-aos="fade-right").mb-2.mb-lg-0
           figure
             img.img-t.mx-auto(src='@/assets/curso/tema7/img01.png')
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           p A su vez, la participación se concibe y se mide de acuerdo con el grado de decisión y de poder para actuar dentro de una comunidad la cual representa la perspectiva democrática sobre cómo funciona una sociedad y el papel que desempeña al efectuar acciones en comunidad. 
           p La participación inicia como un proceso individual en el cual las personas logran reconocer los valores y potencialidades que tiene para participar activamente en un grupo, ya que todo proceso participativo está caracterizado por buscar transformar una realidad lo cual implica tomar decisiones para asumir estos cambios. 
           p Las etapas de desarrollo de la participación han logrado llegar a conformar los denominados procesos sociales los cuales se adelantan con acciones colectivas en espacios públicos en los cuales se permita el acceso fácilmente para lograr objetivos que estén acordes con las necesidades de la población. La participación debe ser política, comunitaria, ciudadana y social para que sea integrada y congruente con las metas pactadas. 
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8
         .bg_subtitulos   
           .row
@@ -74,42 +74,42 @@
           hr
           .row.align-items-center
             .col-lg-1
-              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img06.svg' alt='AvatarTop')
+              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img06.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p <b>Participación pasiva:</b> es el impulso inicial que se obtiene ante una información que se recibe con bajo interés, al punto que tiende a desaparecer rápidamente.  
+              p(data-aos="fade-left") <b>Participación pasiva:</b> es el impulso inicial que se obtiene ante una información que se recibe con bajo interés, al punto que tiende a desaparecer rápidamente.  
           hr
           .row.align-items-center
             .col-lg-1
-              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img07.svg' alt='AvatarTop')
+              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img07.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p <b>Participación mediante la consulta:</b> es el medio para lograr la construcción de opiniones frente al tema que se esté tratando, buscando el avance en la toma de decisiones. 
+              p(data-aos="fade-left") <b>Participación mediante la consulta:</b> es el medio para lograr la construcción de opiniones frente al tema que se esté tratando, buscando el avance en la toma de decisiones. 
           hr
           .row.align-items-center
             .col-lg-1
-              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img08.svg' alt='AvatarTop')
+              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img08.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p <b>Participación por incentivos: </b>consiste en proveer recursos materiales por trabajo a cambio de alimentos, dinero, entre otros. 
+              p(data-aos="fade-left") <b>Participación por incentivos: </b>consiste en proveer recursos materiales por trabajo a cambio de alimentos, dinero, entre otros. 
           hr
           .row.align-items-center
             .col-lg-1
-              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img09.svg' alt='AvatarTop')
+              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img09.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p <b>Participación funcional: </b>los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
+              p(data-aos="fade-left") <b>Participación funcional: </b>los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
           hr
           .row.align-items-center
             .col-lg-1
-              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img10.svg' alt='AvatarTop')
+              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img10.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p <b>Participación interactiva: </b>son las interrelaciones en el interior de la estructura formal de los grupos y las gestiones desarrolladas mediante contactos con organizaciones externas en el logro de objetivos comunitarios. 
+              p(data-aos="fade-left") <b>Participación interactiva: </b>son las interrelaciones en el interior de la estructura formal de los grupos y las gestiones desarrolladas mediante contactos con organizaciones externas en el logro de objetivos comunitarios. 
           hr
           .row.align-items-center
             .col-lg-1
-              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img11.svg' alt='AvatarTop')
+              img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img11.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p <b>Participación desarrollada: </b>es la máxima madurez lograda por una organización representada en la toma de iniciativas independientes y con capacidad de responder por las metas de una colectividad.
+              p(data-aos="fade-left") <b>Participación desarrollada: </b>es la máxima madurez lograda por una organización representada en la toma de iniciativas independientes y con capacidad de responder por las metas de una colectividad.
           hr
 
-      .row.align-items-center.mb-4
+      .row.align-items-center.mb-4(data-aos="fade-right")
         .col-lg-8
           .bg_subtitulos   
             .row
@@ -120,7 +120,7 @@
       p El estado colombiano contribuye a la organización, promoción y capacitación de todas aquellas asociaciones profesionales, cívicas, sindicales, comunitarias, juveniles, benéficas o que sean de utilidad común no gubernamentales a que constituyan mecanismos democráticos de representación en todas las instancias de participación, concertación, control y vigilancia de la gestión pública que se establezcan. 
       p.mb-5 Es por esto por lo que se han definido los mecanismos constitucionales que tiene la ciudadanía de participar en la toma de decisiones, los cuales serán descritos a continuación: 
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").border_rad
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").border_rad(data-aos="fade-down-right")
       .row.justify-content-center.align-items-center(titulo="Plebiscito")     
         .col-md-4
           img(src='@/assets/curso/tema7/img12.png')
@@ -196,7 +196,7 @@
               i.lista-ul__vineta.bg_color15
               | Pueden asistir todas las personas que tengan interés en el asunto.
 
-    figcaption.color_enlace Nota: Ley 134 de 1994. Mayo 31. Congreso de la República. Por la cual se dictan normas sobre mecanismos de participación ciudadana. #[a(href="https://bit.ly/3mPoIUz" target='_blank') <br> https://bit.ly/3mPoIUz]  
+    figcaption.color_enlace(data-aos="fade-right") Nota: Ley 134 de 1994. Mayo 31. Congreso de la República. Por la cual se dictan normas sobre mecanismos de participación ciudadana. #[a(href="https://bit.ly/3mPoIUz" target='_blank') <br> https://bit.ly/3mPoIUz]  
 
 
 

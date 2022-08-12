@@ -12,10 +12,10 @@
 
     .bg_1.p-4.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-5
+        .col-lg-5(data-aos="fade-right").mb-2.mb-lg-0
           figure
             img.img-t.mx-auto(src='@/assets/curso/tema4/img01.png')
-        .col-lg-7
+        .col-lg-7(data-aos="fade-left")
           p Estos promotores tienen enmarcado sus quehaceres dentro de la participación ciudadana, con el control social de las diferentes gestiones ambientales y la organización de comunidades para darle solución a las problemáticas ambientales que los afecten. Algunas de sus funciones son:
           ul.lista-ul--color
             li.m_bot1
@@ -40,7 +40,7 @@
           span.text_color1 Promotores Ambientales Comunitarios,
           | como una herramienta para el cumplimiento de la estrategia contenida en la Política Nacional de Educación Ambiental denominada "Formación de Educadores y Dinamizadores Ambientales",  convirtiéndose en el procedimiento que permite implementar programas de capacitación y formación cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos que orientan el desarrollo sostenible y la educación ambiental tanto en lo local como en lo regional, dentro de los lineamientos del Desarrollo Sostenible.
 
-        TabsC.color-acento-botones
+        TabsC.color-acento-botones(data-aos="fade-down")
           .py-3.py-md-4(titulo="Objetivos y estrategias")
             .row.justify-content-center
               .col-md-2.mb-4.mb-md-0
@@ -62,8 +62,8 @@
 
     .row.justify-content-center.align-items-center
       .col-lg-6
-          p Funciones del promotor ambiental comunitario: 
-          ul.lista-ul--color
+          p(data-aos="fade-right") Funciones del promotor ambiental comunitario: 
+          ul.lista-ul--color(data-aos="fade-right")
             li.m_bot1
               i.lista-ul__vineta
               |	Conocer y difundir la Política Nacional de Educación Ambiental y sus estrategias.
@@ -83,7 +83,7 @@
               i.lista-ul__vineta
               |	Participar de los procesos de planeación de la gestión ambiental. 
       .col-lg-4
-        figure
+        figure(data-aos="fade-left")
           img.img-t.mx-auto(src='@/assets/curso/tema4/img04.png')
             
       

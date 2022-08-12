@@ -9,7 +9,7 @@
 
     p.mb-4 Colombia está catalogado como el segundo país más megadiverso debido a la variedad de ecosistemas que acá se encuentran, además de las cantidades de especies y recursos naturales, es por esto que es primordial que se asegure la conservación y preservación de estos preciados recursos por medio de normativas ambientales, como se indicada a continuación:
 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").border_rad
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").border_rad(data-aos="fade-up")
       .row.justify-content-center(titulo="Clasificación Normatividad Ambiental")     
         .col-md-11
           .tabla-b.color-primario
@@ -250,7 +250,7 @@
                     i.fas.fa-file-download    
 
     .bg_fondo4
-      .row.align-items-center.mb-4
+      .row.align-items-center.mb-4(data-aos="fade-right")
         .col-lg-10
           .bg_subtitulos   
             .row
@@ -261,10 +261,10 @@
       p Los recursos naturales son todos aquellos elementos o bienes que nos proporciona la naturaleza y que se encuentran en el medio natural en el cual no interviene la acción del hombre para su generación.  
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-5
+        .col-lg-5(data-aos="fade-right")
           figure
             img.img-t.mx-auto(src='@/assets/curso/tema3/img01.png')
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           p Estos recursos se pueden utilizar para satisfacer las necesidades vitales del ser humano y de los demás seres vivos.
           p Es necesario entender que sin una adecuada planificación y organización algunos de estos bienes que provee la naturaleza pueden tender a desaparecer.
           p El cuidado de los recursos naturales es importante, no sólo porque son la base de las sociedades productivas modernas, sino porque forman parte esencial de la naturaleza y son los que permiten la existencia de los seres vivos en el planeta Tierra.
@@ -273,7 +273,7 @@
       p.mb-5 Los recursos naturales se dividen según sus fuentes de generación y mantenimiento en dos grandes grupos: 
             
       .tarjeta--container.row.mb-5
-        .col-md.tarjeta.bg_tar1-t3.p-5
+        .col-md.tarjeta.bg_tar1-t3.p-5(data-aos="fade-right")
           .row.justify-content-center.mb-4
             .col-6
               figure
@@ -299,7 +299,7 @@
                 li.m_bot1
                   i.lista-ul__vineta
                   |	Biocombustibles                  
-        .col-md.tarjeta.bg_tar2-t3.p-5
+        .col-md.tarjeta.bg_tar2-t3.p-5(data-aos="fade-left")
           .row.justify-content-center.mb-4
             .col-6
               figure
@@ -326,7 +326,7 @@
                   i.lista-ul__vineta
                   |	Metales       
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8
         .bg_subtitulos   
           .row
@@ -337,7 +337,7 @@
     p.mb-4 La conservación ambiental nace como una necesidad debido a los recurrentes problemas ambientales que afectan a la salud tanto humana como de los diferentes seres vivos que interactúan en el planeta Tierra.
 
     .row.justify-content-center.align-items-center.mb-5         
-      .col-lg-10 
+      .col-lg-10.col-xl-12.col-xxl-10 
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="flip-down")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img06.svg')})`}"

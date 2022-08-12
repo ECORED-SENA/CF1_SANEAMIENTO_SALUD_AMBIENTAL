@@ -14,11 +14,11 @@
       .row.justify-content-center        
         .col-lg-10
           figure.mb-4
-            img(src='@/assets/curso/tema5/img01.png')
+            img(data-aos="fade-up")(src='@/assets/curso/tema5/img01.png')
           p A la Educación Ambiental le interesa no sólo explicar los problemas del ambiente natural, sino también del social y el transformado, en el que se manifiestan con toda claridad las distintas responsabilidades de los sectores sociales. Estos problemas hacen evidente la necesidad de decidir y actuar sobre los retos inmediatos, sin perder de vista las acciones a mediano y largo plazos.
           p Los componentes de la educación ambiental son:
 
-          SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-6")(data-aos="fade-down")
             .row.justify-content-center
               .col-12
                 .tarjeta.p-4.bg_color6.h-105
@@ -64,10 +64,10 @@
 
     .row.justify-content-center.mb-5       
       .col-lg-10
-        .bg_10.p-5
+        .bg_10.p-5(data-aos="fade-up-right")
           LineaTiempoB.color-secundario.mb-5(:datos="datosLineaTiempoB")
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-2
         .bg_subtitulos   
           .row
@@ -81,7 +81,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-6
-        .bg_2.p-2
+        .bg_2.p-2(data-aos="fade-up")
           p.text-center A continuación, se describen los tipos de capacitación:
 
     .row.justify-content-center.mb-5
@@ -135,7 +135,7 @@
               figure
                 img(src='@/assets/curso/tema5/img18.png', alt='AvatarTop')
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8
         .bg_subtitulos   
           .row
@@ -146,11 +146,11 @@
     p La educación, al igual que todos los campos de actividad del hombre, requiere también de una buena dosis de técnica por parte del maestro; técnica encaminada al manejo de la clase, a la organización de la asignatura, al proceso de interrelación maestro-alumno para la elaboración de los conocimientos; sin descuidar además la comprobación de los resultados que hace de la Evaluación un proceso en el que mayormente debe notarse la preparación profesional del educador. Siendo, por tanto, la técnica una rama inherente a la educación, conviene analizar brevemente lo que por ello debemos entender en el campo didáctico.
     p.mb-4 A continuación, se resumen las técnicas educativas:
 
-    ImagenInfograficaB.color-acento-botones.mb-5
+    ImagenInfograficaB.color-acento-botones
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema5/img19.svg', alt='Texto que describa la imagen')
-          figcaption.color_enlace Nota. Carlos Delgado Álvarez, Universidad del Usuay, Técnicas Educativas. #[a(href="https://www.uazuay.edu.ec/sites/default/files/public/TECNICAS-EDUCATIVAS.pdf" target='_blank') <br> https://www.uazuay.edu.ec/sites/default/files/public/TECNICAS-EDUCATIVAS.pdf]  
+          
 
       div(x="12.6%" y="74.3%" tooltip="Técnicas para el aprendizaje asistido")
         .row.justify-content-center.mb-4
@@ -158,7 +158,7 @@
             .bg_color16.p-2
               h5.text-center Técnicas para el aprendizaje asistido                      
         .row.justify-content-evenly
-          .col-lg-3.ms-5
+          .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
               li.m_bot1
                 i.lista-ul__vineta.bg_color15
@@ -189,7 +189,7 @@
             .bg_color16.p-2
               h5.text-center Técnicas para el aprendizaje colaborativo                 
         .row.justify-content-evenly
-          .col-lg-3.ms-5
+          .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
               li.m_bot1
                 i.lista-ul__vineta.bg_color15
@@ -235,7 +235,7 @@
             .bg_color16.p-2
               h5.text-center Técnicas para el aprendizaje de aplicación                      
         .row.justify-content-evenly
-          .col-lg-3.ms-5
+          .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
               li.m_bot1
                 i.lista-ul__vineta.bg_color15
@@ -269,7 +269,7 @@
             .bg_color16.p-2
               h5.text-center Técnicas para el aprendizaje autónomo                
         .row.justify-content-evenly
-          .col-lg-3.ms-5
+          .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
               li.m_bot1
                 i.lista-ul__vineta.bg_color15
@@ -321,7 +321,7 @@
                 i.lista-ul__vineta.bg_color15
                 |	Rueda de atributos
 
-
+    figcaption.color_enlace Nota. Carlos Delgado Álvarez, Universidad del Usuay, Técnicas Educativas. #[a(href="https://www.uazuay.edu.ec/sites/default/files/public/TECNICAS-EDUCATIVAS.pdf" target='_blank') <br> TECNICAS-EDUCATIVAS.pdf]  
 
      
 

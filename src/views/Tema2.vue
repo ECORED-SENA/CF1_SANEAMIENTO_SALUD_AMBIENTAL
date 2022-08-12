@@ -9,24 +9,24 @@
 
     .bg_fondo2
       .row.justify-content-center.mb-5
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p Los impactos ambientales son todas aquellas alteraciones que son generadas por el ser humano al medio ambiente ya sea de manera directa o indirecta por un proyecto, acción, obra o labor en un área determinada.
           p Toda actividad que pueda causar un impacto ambiental en alguna de sus fases estará obligada a someterse al Sistema de Evaluación de Impacto Ambiental para determinar con claridad la magnitud de estos impactos. 
           p Por medio de la identificación de impactos ambientales se busca hacer una evaluación y valoración de los efectos presentes como resultado de las actividades, productos o servicios en una organización, así como, se pretende mediante la evaluación, poder hallar soluciones para prevenir, mitigar o controlar dichos impactos. 
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           figure
               img.img-t.mx-auto(src='@/assets/curso/tema2/img01.png')
 
       .row.justify-content-center.mb-5
         .col-lg-7.col-xl-8.col-xxl-7
-          .bg_2.p-2
+          .bg_2.p-2(data-aos="fade-up")
             p.text-center Los impactos ambientales se pueden establecer de acuerdo con los siguientes tipos:
 
       .row.justify-content-center
         .col-lg-9
           .row.justify-content-center.mb-5
             .col-md-6.col-xl.mb-4.mb-xl-0
-              .tarjeta-numerada.color-primario.p-4.h-100
+              .tarjeta-numerada.color-primario.p-4.h-100(data-aos="fade-right")
                 .tarjeta-numerada__numero
                   .h2 01
                 p.m_left2
@@ -34,7 +34,7 @@
                 p.m_left2 Estos recursos pueden ser utilizados para el aprovechamiento forestal cuando son renovables, cuando no son renovables son utilizados en extracción como lo es el petróleo o el carbón.
 
             .col-md-6.col-xl.mb-4.mb-xl-0
-              .tarjeta-numerada.color-acento-contenido.p-4.h-100
+              .tarjeta-numerada.color-acento-contenido.p-4.h-100(data-aos="fade-up")
                 .tarjeta-numerada__numero
                   .h2 02
                 p.m_left2 
@@ -42,7 +42,7 @@
                 p.m_left2 Se relacionan proyectos que dentro de su funcionamiento emiten gases a la atmósfera o que contaminan cuerpos de agua con vertimientos. 
 
             .col-md-6.col-xl.mb-4.mb-xl-0
-              .tarjeta-numerada.color-secundario.p-4.h-100
+              .tarjeta-numerada.color-secundario.p-4.h-100(data-aos="fade-left")
                 .tarjeta-numerada__numero
                   .h2 03
                 p.m_left2 
@@ -113,8 +113,8 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .bg_5.p-5
-          p En el impacto ambiental existen una serie de pasos fundamentales para tener en cuenta en el proceso de identificación, como: 
-          ul.lista-ul--color
+          p(data-aos="fade-right") En el impacto ambiental existen una serie de pasos fundamentales para tener en cuenta en el proceso de identificación, como: 
+          ul.lista-ul--color(data-aos="fade-right")
             li.m_bot1
               i.lista-ul__vineta
               |	Definir los objetivos puntuales del proyecto.
@@ -145,12 +145,12 @@
 
     .row.justify-content-center
       .col-lg-10
-        .titulo-sexto.bg_color-titulo
+        .titulo-sexto.bg_color-titulo(data-aos="fade-right")
           h5 Tabla 1
           span.text-small.color_text <em>Variables ambientales</em>
 
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-up-right")
         .tabla-b.color-primario.mb-5
           .tabla-b__header
               th.h4.t_th-tabla1 Variable ambiental
@@ -244,7 +244,7 @@
               td Se puede dar por incendios, inundaciones o remoción en masa lo cual lleva a una pérdida de la cubierta vegetal.   
               td Se deberán identificar especies endémicas, autóctonas y la diversidad entre ellas. 
     
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-2
         .bg_subtitulos   
           .row
@@ -255,7 +255,7 @@
     p.mb-4 La matriz de aspectos e impactos ambientales es una de las herramientas fundamentales dentro de un sistema de gestión ambiental ya que al ser una exigencia de la norma ISO 14001 que regula estos sistemas se convierte en un paso para la obtención de la certificación ambiental. 
 
     .row.justify-content-center.align-items-center.mb-5         
-      .col-lg-10 
+      .col-lg-10.col-xl-12.col-xxl-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="flip-down")
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img10.png')})`}"
@@ -270,8 +270,8 @@
     .row.justify-content-center.mb-5         
       .col-lg-10
         .bg_6.p-5
-          p Estas son algunas de las ventajas de la implementación de estas matrices dentro de la organización: 
-          ul.lista-ul--color
+          p(data-aos="fade-right") Estas son algunas de las ventajas de la implementación de estas matrices dentro de la organización: 
+          ul.lista-ul--color(data-aos="fade-right")
             li.m_bot1
               i.lista-ul__vineta
               |	Facilita la identificación del impacto ambiental del proyecto mientras que ofrece recomendaciones para su adecuada atención y manejo. Además, permite identificar las normas y requisitos ambientales que debe cumplir cada organización para cumplir con las regulaciones del sector.
@@ -285,7 +285,7 @@
               i.lista-ul__vineta
               |	Determina el costo de las medidas de manejo que se deben implementar, apoyando la viabilidad económica del proyecto.
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-10
         .bg_subtitulos   
           .row
@@ -297,17 +297,17 @@
 
     .bg_7.p-5.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p Los cambios en el ambiente ya sean adversos o beneficiosos, son el resultado total o parcial de aspectos ambientales.
           p La evaluación ambiental tiene como objetivo la verificación de los parámetros y normativas que actualmente se encuentran vigentes para conocer el estado de los componentes del entorno, lo cual facilita planificar acciones a tomar con el fin de mantener o mejorar las condiciones del medio ambiente. 
           p Se debe entender que las relaciones que se manejan entre los aspectos ambientales y sus respectivos impactos asociados son de causa y efecto, es por esto por lo que se requiere de una buena comprensión de aquellos aspectos que tienen o pueden tener impactos significativos sobre el ambiente, ya que de la identificación de las actividades que desarrolla la entidad pueden surgir muchos aspectos ambientales e impactos asociados.
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           figure
             img.img-t.mx-auto(src='@/assets/curso/tema2/img11.svg')
 
     p.mb-5 La identificación de los aspectos ambientales significativos y sus impactos asociados es necesaria para determinar cuándo se necesita control o mejora y para establecer prioridades para acciones de gestión.
         
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-10
         .bg_subtitulos   
           .row
@@ -318,7 +318,7 @@
     p.mb-5 La evaluación, al ser uno de los pasos fundamentales en el impacto ambiental, requiere conocer el proceso que se debe realizar, sobre todo al situarlo desde el manejo y utilización de la matriz Leopold: 
 
     .row.justify-content-center
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .bloque-texto-f.color-primario.pt-4.px-5.mb-4
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
@@ -331,8 +331,8 @@
     
     .row.justify-content-center.mb-4
       .col-lg-10
-        p.mb-4 La forma de usar la matriz de Leopold se puede resumir en los siguientes pasos:  
-        ul.lista-ul--color
+        p.mb-4(data-aos="fade-right") La forma de usar la matriz de Leopold se puede resumir en los siguientes pasos:  
+        ul.lista-ul--color(data-aos="fade-right")
             li.m_bot1
               i.lista-ul__vineta
               |	Limite la esfera de atribución.
@@ -365,7 +365,7 @@
               |	Agregue resultados de los elementos del medio ambiente. 
 
     .bg_fondo3
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-5(data-aos="fade-up")
         .col-lg-10
           .bg_8.p-2
             p.text-center Los proyectos o actividades que deben ser sometidas al Sistema de Evaluación de Impacto Ambiental, son los siguientes:
@@ -373,7 +373,7 @@
 
       .row.justify-content-center
         .col-lg-12
-          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
             .row.justify-content-center.mb-3
               .col-12.mb-4
                 .tarjeta.color-acento-contenido.p-4.h-130.bg_color2

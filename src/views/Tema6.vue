@@ -11,15 +11,15 @@
 
     .bg_11.p-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           p Estos sistemas de gestión ambiental están basados en la norma ISO 14001, la cual tiene como principal objetivo que las empresas puedan demostrar que son responsables y están comprometidas con la protección del medio ambiente, por medio del control de todas sus actividades, productos, servicios y productos que puedan generar afectaciones al medio ambiente.  
           p Mediante la identificación y gestión de riesgos que se logran conseguir al implementar un sistema de gestión ambiental, es posible tener en cuenta la prevención de los riesgos junto con la protección del medio ambiente, mediante el cumplimiento de las normatividades vigentes. 
           p La gestión ambiental permite implementar controles sobre todos aquellos aspectos que se puedan minimizar e incluso puede llegar a eliminar todos los impactos que se generen por las actividades que se realicen dentro de la organización.  
         .col-lg-5
-          figure
+          figure(data-aos="fade-left")
             img.img-t.mx-auto(src='@/assets/curso/tema6/img01.png')
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8
         .bg_subtitulos   
           .row
@@ -35,15 +35,15 @@
         .bg_12.p-4.mb-5
           .row.justify-content-end
             .col-lg-6
-              h4.bg_color15.mt-5 Tratados internacionales
+              h4.bg_color15.mt-5(data-aos="fade-down") Tratados internacionales
           .row.justify-content-center
             .col-lg-8
-              p.m_left3 El objetivo fundamental de esta norma es brindar un apoyo hacia la protección ambiental y la armonización entre la prevención de la contaminación entendiendo las necesidades socioeconómicas de cada organización. La implementación de esta norma se podrá llevar a cabo en cualquier tipo de empresa que quiera mejorar y demostrar su compromiso con el cuidado del medio ambiente.
+              p.m_left3(data-aos="fade-up") El objetivo fundamental de esta norma es brindar un apoyo hacia la protección ambiental y la armonización entre la prevención de la contaminación entendiendo las necesidades socioeconómicas de cada organización. La implementación de esta norma se podrá llevar a cabo en cualquier tipo de empresa que quiera mejorar y demostrar su compromiso con el cuidado del medio ambiente.
 
     p La norma ISO 14001 no cuenta con requisitos de actuación ambiental excepto el compromiso a la mejora continua y el cumplimiento de la normatividad vigente, es decir, esta normativa no pretende establecer parámetros de emisiones de gases, de consumos de energía o recursos naturales, de manejo de residuos, ni ningún otro parámetro ambiental, esta norma solo pretende especificar los diferentes requisitos que debe tener un sistema de gestión ambiental, el cual de mantenerse de manera adecuada reducirá los impactos ambientales asociados a los procesos productivos de cada organización. 
 
     .row.justify-content-center.mb-5
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         .bg_color17.p-5.h-100
           p Según las políticas de medio ambiente que establezcan las organizaciones los resultados que se pueden obtener de la implementación de un sistema de gestión ambiental son los siguientes: 
           ul.lista-ul--color
@@ -71,7 +71,7 @@
             li.m_bot1
               i.lista-ul__vineta
               |	Repercusiones positivas sobre la calidad de los productos y servicios.      
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         .bg_color18.p-5.h-100
           p Todos los sistemas de gestión ambiental deberán estar fundamentado por los siguientes puntos establecidos por la norma ISO 14001: 
           ul.lista-ul--color
@@ -109,7 +109,7 @@
               i.lista-ul__vineta
               |	La revisión por la dirección. 
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8
         .bg_subtitulos   
           .row
@@ -134,7 +134,7 @@
     p Este tipo de herramientas son fundamentales ya que permite organizar los esfuerzos y permiten realizar una adecuada planificación, en donde los márgenes de error sean disminuidos junto con los altos consumos de energía y recursos, además estos planes de acción permiten segmentar un problema mayor en metas pequeñas y fáciles de alcanzar, mientras se avanza hacia una meta global y así se evita la parálisis de avance. 
     p.mb-4 A continuación, se describen los pasos para realizar correctamente un plan de acción:
 
-    TabsA.color-acento-botones.mb-5
+    TabsA.color-acento-botones.mb-5(data-aos="fade-up-right")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Definir correctamente los objetivos")
         .row.justify-content-center.align-items-center
           .col-xl-6.mb-4
@@ -186,7 +186,7 @@
         p Dentro de un plan de acción se deben determinar los roles y actores de la siguiente manera:
 
     .tarjeta--container.row.mb-5
-      .col-md.tarjeta.bg_color18.p-5.mb-4.mb-lg-0
+      .col-md.tarjeta.bg_color18.p-5.mb-4.mb-lg-0(data-aos="fade-right")
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -195,7 +195,7 @@
         h5.mb-4 El administrador
         p Su rol es plasmar la ruta que se seguirá en un plan de acción en el cual deberá delegar los responsables de implementar las actividades, monitorear los progresos y cuando se cumpla con este plan, deberá verificar el cumplimiento de los objetivos y si no se cumplieron deberá definir nuevas acciones que se deben realizar. 
 
-      .col-md.tarjeta.bg_color17.p-5.mb-4.mb-lg-0
+      .col-md.tarjeta.bg_color17.p-5.mb-4.mb-lg-0(data-aos="fade-up")
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -204,7 +204,7 @@
         h5.mb-4 El responsable del plan de acción
         p Tiene la misión de darle seguimiento al plan y asegurarse de que cada actividad se implemente correctamente y en los tiempos estipulados
 
-      .col-md.tarjeta.bg_color19.p-5
+      .col-md.tarjeta.bg_color19.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -213,7 +213,7 @@
         h5.mb-4 El responsable de la ejecución
         p Cada actividad puede ser llevada a cabo por un responsable diferente, pues se encargará de concretar la acción.
 
-    .bg_fondo5.mb-5
+    .bg_fondo5.mb-5(data-aos="fade-right")
       .row.align-items-center.mb-4
         .col-lg-8
           .bg_subtitulos   
@@ -226,10 +226,10 @@
       p Se realiza mediante normas técnicas que se caracterizan por la practicidad al momento de llevar a cabo la administración de los archivos que se encuentran física y electrónicamente.
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.mb-4.mb-lg-0
+        .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
           figure
             img(src='@/assets/curso/tema6/img11.png')
-        .col-lg-6
+        .col-lg-6(data-aos="fade-left")
           p.mb-4 La gestión documental permite que se adelanten los siguientes procesos: 
           ul.lista-ul--color
             li.m_bot1
@@ -255,7 +255,7 @@
         .col-lg-10
           p La persona encargada de administrar los archivos permite una correcta gestión de estos utilizando bases de datos en las cuales se pueda revisar las estructuras de la documentación y acceder rápidamente a la información cuando sea requerida. 
           p.mb-4 La gestión documental no solo aporta orden a los archivos, también provee información detallada cuando es prioritaria y tiene un gran aporte a la organización. Para realizar una correcta gestión documental es necesario seguir los siguientes pasos: 
-          figure
+          figure(data-aos="fade-down")
             img(src='@/assets/curso/tema6/img12.svg')
 
 
