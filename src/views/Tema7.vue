@@ -43,7 +43,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-6
               h5 La participación ciudadana
-              p Esta consiste en que los ciudadanos puedan intervenir dentro de las esferas públicas en función de sus intereses políticos y sociales que sean de índole colectivos comunes, esta es la opción que tienen los ciudadanos para soportar la democracia en sus instancias de decisión y gestión
+              p Esta consiste en que los ciudadanos puedan intervenir dentro de las esferas públicas en función de sus intereses políticos y sociales que sean de índole colectivos comunes, esta es la opción que tienen los ciudadanos para soportar la democracia en sus instancias de decisión y gestión.
             .col-lg-5
               figure
                 img(src='@/assets/curso/tema7/img03.svg', alt='AvatarTop')

@@ -74,7 +74,7 @@
                 td.t_th-tabla3 Es el código mediante el cual se establece el uso de los recursos naturales renovables.
               tr.bg_color3
                 td.t_th-tabla3 Ley sanitaria - Ley 09 de 1979
-                td.t_th-tabla3 Su principal objetivo es la conservación de la salud y del bienestar humano
+                td.t_th-tabla3 Su principal objetivo es la conservación de la salud y del bienestar humano.
               tr.bg_color6
                 td.t_th-tabla3 Ley 99 de 1993
                 td.t_th-tabla3 Se crea el Ministerio de medio ambiente.
@@ -208,7 +208,7 @@
                     i.fas.fa-file-download
               tr.bg_color6
                 td.t_td-tabla1 Resolución 2210 de 2018
-                td Se reglamenta el uso del sello minero ambiental colombiano 
+                td Se reglamenta el uso del sello minero ambiental colombiano. 
                 td
                   a.boton.color-primario.me-3(:href="obtenerLink('downloads/RESOLUCION-2210-DE-2018.pdf')" target="_blank" type="application/pdf")
                     span Descargar

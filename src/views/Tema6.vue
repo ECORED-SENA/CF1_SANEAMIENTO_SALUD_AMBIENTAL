@@ -30,9 +30,9 @@
     p La Norma ISO 14001 está inmersa dentro de la familia de las normas ISO 14000 la cual es una familia de normas internacionales que se utilizan para la gestión de sistemas ambientales. Es la primera serie de normas que facilita a las diferentes organizaciones de todo el mundo a realizar los esfuerzos ambientales que sean necesarios y poder medirlos de acuerdo con criterios que son aceptados a nivel internacional. La norma ISO 14001 es la primera de la serie ISO 14000, en la cual se especifican cuáles serán los requisitos que debe cumplir un sistema de gestión ambiental. 
     p.mb-4 Esta norma no es de carácter obligatorio, ya que cada organización está en la potestad de decidir si desea implementarla o no. Fue llevada a cabo por la International Organization for Standardization (ISO) en la ciudad de Ginebra, Suiza. Está orientada para que pueda ser aplicada a cualquier tipo de organización, independientemente del sector, las dimensiones, la situación geográfica, cultural y social.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center
       .col-lg-10.col-xl-12.col-xxl-10
-        .bg_12.p-4.mb-5
+        .bg_12.p-4.mb-2
           .row.justify-content-end
             .col-lg-6
               h4.bg_color15.mt-5(data-aos="fade-down") Tratados internacionales
@@ -40,7 +40,8 @@
             .col-lg-8
               p.m_left3(data-aos="fade-up") El objetivo fundamental de esta norma es brindar un apoyo hacia la protección ambiental y la armonización entre la prevención de la contaminación entendiendo las necesidades socioeconómicas de cada organización. La implementación de esta norma se podrá llevar a cabo en cualquier tipo de empresa que quiera mejorar y demostrar su compromiso con el cuidado del medio ambiente.
 
-    p La norma ISO 14001 no cuenta con requisitos de actuación ambiental excepto el compromiso a la mejora continua y el cumplimiento de la normatividad vigente, es decir, esta normativa no pretende establecer parámetros de emisiones de gases, de consumos de energía o recursos naturales, de manejo de residuos, ni ningún otro parámetro ambiental, esta norma solo pretende especificar los diferentes requisitos que debe tener un sistema de gestión ambiental, el cual de mantenerse de manera adecuada reducirá los impactos ambientales asociados a los procesos productivos de cada organización. 
+    h4.bg_color15.mt-5(data-aos="fade-down") Objetivo
+    p.mb-4 La norma ISO 14001 no cuenta con requisitos de actuación ambiental excepto el compromiso a la mejora continua y el cumplimiento de la normatividad vigente, es decir, esta normativa no pretende establecer parámetros de emisiones de gases, de consumos de energía o recursos naturales, de manejo de residuos, ni ningún otro parámetro ambiental, esta norma solo pretende especificar los diferentes requisitos que debe tener un sistema de gestión ambiental, el cual de mantenerse de manera adecuada reducirá los impactos ambientales asociados a los procesos productivos de cada organización. 
 
     .row.justify-content-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")

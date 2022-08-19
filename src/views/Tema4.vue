@@ -37,7 +37,7 @@
     .row.justify-content-center.mb-4         
       .col-lg-10
         p.mb-4 El Ministerio de Ambiente, Desarrollo Sostenible, viene implementado el Programa 
-          span.text_color1 Promotores Ambientales Comunitarios,
+          span.text_color1 Promotores Ambientales Comunitarios, 
           | como una herramienta para el cumplimiento de la estrategia contenida en la Política Nacional de Educación Ambiental denominada "Formación de Educadores y Dinamizadores Ambientales",  convirtiéndose en el procedimiento que permite implementar programas de capacitación y formación cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos que orientan el desarrollo sostenible y la educación ambiental tanto en lo local como en lo regional, dentro de los lineamientos del Desarrollo Sostenible.
 
         TabsC.color-acento-botones(data-aos="fade-down")
