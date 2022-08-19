@@ -152,7 +152,7 @@
           img(src='@/assets/curso/tema5/img19.svg', alt='Texto que describa la imagen')
           
 
-      div(x="12.6%" y="74.3%" tooltip="Técnicas para el aprendizaje asistido")
+      div(x="12.6%" y="85%" tooltip="Técnicas para el aprendizaje asistido")
         .row.justify-content-center.mb-4
           .col-6
             .bg_color16.p-2
@@ -183,7 +183,7 @@
                 i.lista-ul__vineta.bg_color15
                 |	Seminario
 
-      div(x="38.2%" y="74.3%" tooltip="Técnicas para el aprendizaje colaborativo")
+      div(x="38.2%" y="85%" tooltip="Técnicas para el aprendizaje colaborativo")
         .row.justify-content-center.mb-4
           .col-6
             .bg_color16.p-2
@@ -229,7 +229,7 @@
                 i.lista-ul__vineta.bg_color15
                 |	Taller
 
-      div(x="64.5%" y="74.3%" tooltip="Técnicas para el aprendizaje de aplicación")
+      div(x="64.5%" y="85%" tooltip="Técnicas para el aprendizaje de aplicación")
         .row.justify-content-center.mb-4
           .col-6
             .bg_color16.p-2
@@ -263,7 +263,7 @@
                 i.lista-ul__vineta.bg_color15
                 |	Registro anecdótico
 
-      div(x="88%" y="74.3%" tooltip="Técnicas para el aprendizaje autónomo")
+      div(x="88%" y="85%" tooltip="Técnicas para el aprendizaje autónomo")
         .row.justify-content-center.mb-4
           .col-6
             .bg_color16.p-2

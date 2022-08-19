@@ -203,7 +203,7 @@
               img(src='@/assets/curso/tema6/img09.svg', alt='Texto que describa la imagen')
           
         h5.mb-4 El responsable del plan de acción
-        p Tiene la misión de darle seguimiento al plan y asegurarse de que cada actividad se implemente correctamente y en los tiempos estipulados
+        p Tiene la misión de darle seguimiento al plan y asegurarse de que cada actividad se implemente correctamente y en los tiempos estipulados.
 
       .col-md.tarjeta.bg_color19.p-5(data-aos="fade-left")
         .row.justify-content-center.mb-4
