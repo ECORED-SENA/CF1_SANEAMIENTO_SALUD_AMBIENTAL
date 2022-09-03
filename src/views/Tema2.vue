@@ -20,7 +20,7 @@
       .row.justify-content-center.mb-5
         .col-lg-7.col-xl-8.col-xxl-7
           .bg_2.p-2(data-aos="fade-up")
-            p.text-center Los impactos ambientales se pueden establecer de acuerdo con los siguientes tipos:
+            p.m-0.text-center Los impactos ambientales se pueden establecer de acuerdo con los siguientes tipos:
 
       .row.justify-content-center
         .col-lg-9
@@ -55,56 +55,56 @@
     
       SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img02.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img02.svg' alt='AvatarTop')
           .tarjeta.bg_color11.h-200
             .text-black.p-4
               h5 Positivo o negativo
               p De acuerdo con los efectos resultantes sobre el medio ambiente.
         
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img03.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img03.svg' alt='AvatarTop')
           .tarjeta.bg_color12.h-200
             .text-black.p-4
               h5 Directo o indirecto
               p Cuando el impacto es producido por una acción específica del proyecto.
 
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img04.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img04.svg' alt='AvatarTop')
           .tarjeta.bg_color13.h-200
             .text-black.p-4
               h5 Acumulativo
               p Es el resultado de la adición de impactos ambientales que ocurrieron previamente y que aún están ocurriendo.
 
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img05.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img05.svg' alt='AvatarTop')
           .tarjeta.bg_color11.h-200
             .text-black.p-4
               h5 Sinérgico
               p Se produce cuando la aglomeración de impactos tiene una incidencia mayor que cuando se suman individualmente.
 
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img06.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img06.svg' alt='AvatarTop')
           .tarjeta.bg_color12.h-200
             .text-black.p-4
               h5 Residual
               p Persiste después de la implementación de medidas de mitigación.
 
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img07.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img07.svg' alt='AvatarTop')
           .tarjeta.bg_color13.h-200
             .text-black.p-4
               h5 Temporal o permanente
               p Son por un período de tiempo determinado.
 
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img08.svg' alt='AvatarTop')
+          img.img105.top_1.mx-auto(src='@/assets/curso/tema2/img08.svg' alt='AvatarTop')
           .tarjeta.bg_color11.h-200
             .text-black.p-4
               h5 Reversible o irreversible
               p Dependen de qué tan factible es retornar a las condiciones originales.
         
         .tarjeta-avatar
-          img.img-t.mx-auto(src='@/assets/curso/tema2/img09.svg' alt='AvatarTop')
+          img.img105.top_1.mx-au105.top_1(src='@/assets/curso/tema2/img09.svg' alt='AvatarTop')
           .tarjeta.bg_color12.h-200
             .text-black.p-4
               h5 Continuo o periódico
@@ -140,12 +140,14 @@
               i.lista-ul__vineta
               |	Elaborar resumen y recomendaciones.
 
-    p Para identificar los impactos ambientales es necesario conocer primero los aspectos ambientales dentro de la organización, tanto de las actividades, productos o servicios y cómo estos afectan el medio ambiente.
-    p.mb-5 A continuación, se relacionan algunas variables que se deben tener en cuenta como factores contaminantes: 
+    .row.justify-content-center
+      .col-lg-10
+        p Para identificar los impactos ambientales es necesario conocer primero los aspectos ambientales dentro de la organización, tanto de las actividades, productos o servicios y cómo estos afectan el medio ambiente.
+        p.mb-5 A continuación, se relacionan algunas variables que se deben tener en cuenta como factores contaminantes: 
 
     .row.justify-content-center
       .col-lg-10
-        .titulo-sexto.bg_color-titulo(data-aos="fade-right")
+        .titulo-sexto.bg_color-titulo.m_left4(data-aos="fade-right")
           h5 Tabla 1
           span.text-small.color_text <em>Variables ambientales</em>
 
@@ -368,150 +370,146 @@
       .row.justify-content-center.mb-5(data-aos="fade-up")
         .col-lg-10
           .bg_8.p-2
-            p.text-center Los proyectos o actividades que deben ser sometidas al Sistema de Evaluación de Impacto Ambiental, son los siguientes:
+            p.m-0.text-center Los proyectos o actividades que deben ser sometidas al Sistema de Evaluación de Impacto Ambiental, son los siguientes:
           img(src='@/assets/curso/tema2/img13.png')
 
       .row.justify-content-center
         .col-lg-12
-          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-contenido.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 1
-                      | Acueductos, presas, drenajes, o aquellas actividades que alteren los cuerpos naturales de agua.
+          SlyderF.mb-5(columnas="col-lg-12 col-xl-12")(data-aos="fade-down")
+            .row
               .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 4
-                      | Reactores y establecimientos nucleares.
+                .row.justify-content-center.mb-3
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-contenido.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 1
+                          | Acueductos, presas, drenajes, o aquellas actividades que alteren los cuerpos naturales de agua.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-contenido.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 2
+                          | Líneas de transmisión de energía de alto voltaje.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 3
+                          | Centrales generadoras de energía mayores a 3 MW.
+                .row.justify-content-center.mb-3
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 4
+                          | Reactores y establecimientos nucleares.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 5
+                          | Aeropuertos, terminales de buses, automotores, vías férreas, estaciones de servicio y autopistas.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 6
+                          | Puertos, vías de navegación, astilleros y terminales marítimas. 
 
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-contenido.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 2
-                      | Líneas de transmisión de energía de alto voltaje.
+            .row
               .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 5
-                      | Aeropuertos, terminales de buses, automotores, vías férreas, estaciones de servicio y autopistas. 
-
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 3
-                      | Centrales generadoras de energía mayores a 3 MW.
+                .row.justify-content-center.mb-3
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 7
+                          | Proyectos de turismo y desarrollo urbano. 
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 8
+                          | Proyectos industriales o inmobiliarios que se ejecuten en zonas declaradas latentes o saturadas.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 9
+                          | Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas.
+                .row.justify-content-center.mb-3
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 10
+                          | Oleoductos, gasoductos, ductos mineros u otros análogos.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 11
+                          | Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales y santuarios de la naturaleza.
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 12
+                          | Agroindustrias, planteles y establos de crianza, lechería y engorda de animales.
+            .row
               .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 6
-                      | Puertos, vías de navegación, astilleros y terminales marítimas.
-
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 7
-                      | Proyectos de turismo y desarrollo urbano. 
-              .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 10
-                      | Oleoductos, gasoductos, ductos mineros u otros análogos.
-
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 8
-                      | Proyectos industriales o inmobiliarios que se ejecuten en zonas declaradas latentes o saturadas.
-              .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 11
-                      | Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales y santuarios de la naturaleza.
-
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 9
-                      | Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas.
-              .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 12
-                      | Agroindustrias, planteles y establos de crianza, lechería y engorda de animales.
-
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 13
-                      | Proyectos de desarrollo o explotación forestal en suelos de bosques nativos. 
-              .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 16
-                      | Proyectos donde se apliquen productos químicos de manera masiva.
-
-            .row.justify-content-center.mb-3
-              .col-12.mb-4
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 14
-                      | Proyectos de explotación intensiva o de cultivos que utilicen el recurso hidrológico.
-              .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.bg_color1
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 17
-                      | Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas y forestales.  
-
-            .row.mb-3
-              .col-12
-                .tarjeta.color-acento-botones.p-4.h-130.m_botton.bg_color2
-                  ol.lista-ol--cuadro
-                    li 
-                      .lista-ol--cuadro__vineta
-                        span 15
-                      | Proyectos de saneamiento ambiental.
-                
-
+                .row.justify-content-center.mb-3
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 13
+                          | Proyectos de desarrollo o explotación forestal en suelos de bosques nativos. 
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 14
+                          | Proyectos de explotación intensiva o de cultivos que utilicen el recurso hidrológico. 
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color2
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 15
+                          | Proyectos de saneamiento ambiental.
+                .row.justify-content-center.mb-3
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 16
+                          | Proyectos donde se apliquen productos químicos de manera masiva. 
+                  .col-12.col-md-4.mb-4
+                    .tarjeta.color-acento-botones.p-4.h-130.bg_color1
+                      ol.lista-ol--cuadro
+                        li 
+                          .lista-ol--cuadro__vineta
+                            span 17
+                          | Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas y forestales.  
+                 
+           
       
 
 

@@ -7,7 +7,7 @@
         span 6
       h1(data-aos="fade-right") Programa Ambiental 
 
-    p.mb-4 Los sistemas de gestión ambiental son un conjunto de tareas las cuales están específicamente orientadas en la reducción de impactos ambientales que se generen por las diversas actividades productivas de una organización, con el propósito de alcanzar modelos de desarrollo sostenible que aporten al medio ambiente y al correcto funcionamiento de los procesos organizacionales. 
+    p(data-aos="fade-right").mb-4 Los sistemas de gestión ambiental son un conjunto de tareas las cuales están específicamente orientadas en la reducción de impactos ambientales que se generen por las diversas actividades productivas de una organización, con el propósito de alcanzar modelos de desarrollo sostenible que aporten al medio ambiente y al correcto funcionamiento de los procesos organizacionales. 
 
     .bg_11.p-4.mb-5
       .row.justify-content-center.align-items-center

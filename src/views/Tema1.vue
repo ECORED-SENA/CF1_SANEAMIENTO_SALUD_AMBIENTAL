@@ -7,7 +7,7 @@
         span 1
       h1(data-aos="fade-right") Aspectos Ambientales
 
-    p Es necesario entender que un aspecto ambiental es un elemento de actividades, productos o servicios de alguna actividad que puede interactuar de manera positiva o negativa con el medio ambiente, por lo que se puede decir que existe una relación de causa y efecto en donde la causa son los aspectos ambientales y el efecto son los impactos ambientales que se generen por acciones antrópicas hacia el medio ambiente. 
+    p(data-aos="fade-right") Es necesario entender que un aspecto ambiental es un elemento de actividades, productos o servicios de alguna actividad que puede interactuar de manera positiva o negativa con el medio ambiente, por lo que se puede decir que existe una relación de causa y efecto en donde la causa son los aspectos ambientales y el efecto son los impactos ambientales que se generen por acciones antrópicas hacia el medio ambiente. 
 
     .bg_1.p-4.mb-4
       .row.justify-content-center.align-items-center
@@ -23,7 +23,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .bg_2.p-2(data-aos="fade-up")
-          p.text-center A continuación, se abordan con mayor detalle estos aspectos:
+          p.m-0.text-center A continuación, se abordan con mayor detalle estos aspectos:
      
     .row.justify-content-center
       .col-lg-2.col-xl-3.col-xll-2
@@ -79,7 +79,7 @@
               th.h5.text-center.bg_color2(data-aos="fade-right") Emisiones atmosférica
                 .row.justify-content-end.align-items-center
                   .col-lg-2
-                    img.img-t.m_top1(src='@/assets/curso/tema1/img01.svg')
+                    img.img-t.m_top1.d-none.d-lg-block(src='@/assets/curso/tema1/img01.svg')
               td.bg_color6(data-aos="fade-left") Contaminación generada por la emisión, mezcla o acumulación de contaminantes a la atmósfera, provenientes de fuentes naturales o antropogénicas.
             tr
               th.h5.text-center.bg_color3(data-aos="fade-right") Residuos peligrosos
@@ -169,27 +169,27 @@
       p Los componentes ambientales se pueden dividir en los siguientes factores:
 
       .row.mb-4.display_tarjetas2
-        .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
+        .col-md-6.col-lg.mb-1.mb-lg-0(data-aos="fade-right")
           .tarjeta-avatar
-            img(src='@/assets/curso/tema1/img10.svg' alt='AvatarTop')
+            img.img85.top_1(src='@/assets/curso/tema1/img10.svg' alt='AvatarTop')
             .tarjeta.bg_imgdescargas-t1
                 h5.text-center.m_top2 Bióticos
                 a.boton--sm.color-acento-botones.texto-blanco.mb-5.m_left1(:href="obtenerLink('downloads/anexo_1.pdf')" target="_blank" type="application/pdf")
                   span Descargar
                   i.fas.fa-file-download
 
-        .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-up")
+        .col-md-6.col-lg.mb-1.mb-lg-0(data-aos="fade-up")
           .tarjeta-avatar
-            img(src='@/assets/curso/tema1/img11.svg' alt='AvatarTop')
+            img.img85.top_1(src='@/assets/curso/tema1/img11.svg' alt='AvatarTop')
             .tarjeta.bg_imgdescargas-t1
                 h5.text-center.m_top2 Abióticos
                 a.boton--sm.color-acento-botones.texto-blanco.mb-5.m_left1(:href="obtenerLink('downloads/anexo_2.pdf')" target="_blank" type="application/pdf")
                   span Descargar
                   i.fas.fa-file-download
 
-        .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-left")
+        .col-md-6.col-lg.mb-1.mb-lg-0(data-aos="fade-left")
           .tarjeta-avatar
-            img(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')
+            img.img85.top_1(src='@/assets/curso/tema1/img12.svg' alt='AvatarTop')
             .tarjeta.bg_imgdescargas-t1
                 h5.text-center.m_top2 Socioculturales
                 a.boton--sm.color-acento-botones.texto-blanco.mb-5.m_left1(:href="obtenerLink('downloads/anexo_3.pdf')" target="_blank" type="application/pdf")
@@ -245,16 +245,18 @@
     p Como una nueva hoja de ruta en busca de alcanzar un desarrollo sostenible, las Naciones Unidas aprobó en septiembre de 2015 la Agenda 2030 para el Desarrollo Sostenible en la cual se plantean los Objetivos de Desarrollo Sostenible.
     p Estas son las metas comunes que se dictaminan para proteger el planeta y garantizar el bienestar económico y social. Con la adopción de esta nueva estrategia, los diferentes países se comprometen durante los siguientes quince años, a movilizar todos sus medios y sus esfuerzos necesarios para implementarlos a total cabalidad. 
     p Estos objetivos de Desarrollo Sostenible están enfocados en conciliar el:
-    ul.lista-ul--color(data-aos="fade-right")
-      li.m_bot1
+    
+    ul.lista-ul(data-aos="fade-right")
+      li.m_bot1 
         i.lista-ul__vineta
-        h5 Crecimiento económico.
-      li.m_bot1
+        p.m-0 <b>Crecimiento económico.</b>
+      li.m_bot1 
         i.lista-ul__vineta
-        h5 Equilibrio del medio ambiente.
-      li.m_bot1
+        p.m-0 <b>Equilibrio del medio ambiente.</b>
+      li.m_bot1 
         i.lista-ul__vineta
-        h5 Progreso de la sociedad como comunidad.
+        p.m-0 <b>Progreso de la sociedad como comunidad.</b>
+    
     p.mb-5 Garantizando que todos los seres humanos estén en igualdad de condiciones y oportunidades para llevar una vida mejor sin comprometer al planeta. 
 
     .titulo-quinto.color-terciario(data-aos="fade-down")

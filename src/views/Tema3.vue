@@ -7,16 +7,16 @@
         span 3
       h1(data-aos="fade-right") Normatividad Ambiental
 
-    p.mb-4 Colombia está catalogado como el segundo país más megadiverso debido a la variedad de ecosistemas que acá se encuentran, además de las cantidades de especies y recursos naturales, es por esto que es primordial que se asegure la conservación y preservación de estos preciados recursos por medio de normativas ambientales, como se indicada a continuación:
+    p.mb-4(data-aos="fade-right") Colombia está catalogado como el segundo país más megadiverso debido a la variedad de ecosistemas que acá se encuentran, además de las cantidades de especies y recursos naturales, es por esto que es primordial que se asegure la conservación y preservación de estos preciados recursos por medio de normativas ambientales, como se indicada a continuación:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").border_rad(data-aos="fade-up")
       .row.justify-content-center(titulo="Clasificación Normatividad Ambiental")     
         .col-md-11
           .tabla-b.color-primario
-            .tabla-b__header
-                th.h4.t_th-tabla2 Clasificación
-                th.h4.t_th-tabla2 Concepto
-                th.h4.t_th-tabla2 Factores
+            .tabla-b__header.bg_color20
+                th.h4.t_th-tabla2.text-white Clasificación
+                th.h4.t_th-tabla2.text-white Concepto
+                th.h4.t_th-tabla2.text-white Factores
               
             table
               tr.bg_color3
@@ -51,9 +51,9 @@
       .row.justify-content-center(titulo="Normas ambientales en Colombia")
         .col-md-11
           .tabla-b.color-primario
-            .tabla-b__header
-                th.h4.t_th-tabla3 Normas Generales
-                th.h4.t_th-tabla3 Concepto
+            .tabla-b__header.bg_color20
+                th.h4.t_th-tabla3.text-white Normas Generales
+                th.h4.t_th-tabla3.text-white Concepto
               
             table
               tr.bg_color3
@@ -86,9 +86,9 @@
         .col-md-11
           p Son un acuerdo entre dos o más países que quedan por escrito, los cuales están regulados por las normas del derecho internacional.
           .tabla-b.color-primario
-            .tabla-b__header
-                th.h4.t_th-tabla3 Tratados
-                th.h4.t_th-tabla3 Concepto
+            .tabla-b__header.bg_color20
+                th.h4.t_th-tabla3.text-white Tratados
+                th.h4.t_th-tabla3.text-white Concepto
               
             table
               tr.bg_color3
@@ -108,10 +108,10 @@
         .col-md-11
           p Corresponden a los principios y normas que buscan la protección, conservación, recuperación del medio ambiente y preservación de los recursos naturales. 
           .tabla-b.color-primario
-            .tabla-b__header
-                th.h4.t_th-tabla5 Leyes Generales
-                th.h4.t_th-tabla4 Concepto
-                th.h4 Fuente
+            .tabla-b__header.bg_color20
+                th.h4.t_th-tabla5.text-white Leyes Generales
+                th.h4.t_th-tabla4.text-white Concepto
+                th.h4.text-white Fuente
               
             table
               tr.bg_color3
@@ -154,10 +154,10 @@
         .col-md-11
           p Tienen como propósito velar por la recuperación, conservación, protección, manejo, uso y aprovechamiento de los recursos naturales renovables de la nación. Destina como un servicio público la salud y el saneamiento ambiental.
           .tabla-b.color-primario
-            .tabla-b__header
-                th.h4.t_th-tabla5 Decreto
-                th.h4.t_th-tabla4 Concepto
-                th.h4 Fuente
+            .tabla-b__header.bg_color20
+                th.h4.t_th-tabla5.text-white Decreto
+                th.h4.t_th-tabla4.text-white Concepto
+                th.h4.text-white Fuente
               
             table
               tr.bg_color3
@@ -193,10 +193,10 @@
       .row.justify-content-center(titulo="Resoluciones ambientales")     
         .col-md-11
           .tabla-b.color-primario
-            .tabla-b__header
-                th.h4.t_th-tabla5 Resolución
-                th.h4.t_th-tabla4 Concepto
-                th.h4 Fuente
+            .tabla-b__header.bg_color20
+                th.h4.t_th-tabla5.text-white Resolución
+                th.h4.t_th-tabla4.text-white Concepto
+                th.h4.text-white Fuente
               
             table
               tr.bg_color3

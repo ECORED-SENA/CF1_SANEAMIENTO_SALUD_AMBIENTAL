@@ -7,8 +7,8 @@
         span 5
       h1(data-aos="fade-right") Educación Ambiental
 
-    p La Educación Ambiental fue inicialmente contemplada como un proceso educativo, el cual es integral, continuo, expresivo, el cual está lleno de habilidades y conocimientos los cuales son útiles para entender la naturaleza y su equilibrio ecológico, el cual se debe desarrollar bajo unas metas y objetivos claros medidos con el paso del tiempo.
-    p Su desarrollo debe abarcar toda la educación del niño, del joven, del adulto y del anciano para que sea un proceso continuo y permanente que logre prevenir y resolver los problemas ambientales actuales y futuros. 
+    p(data-aos="fade-right") La Educación Ambiental fue inicialmente contemplada como un proceso educativo, el cual es integral, continuo, expresivo, el cual está lleno de habilidades y conocimientos los cuales son útiles para entender la naturaleza y su equilibrio ecológico, el cual se debe desarrollar bajo unas metas y objetivos claros medidos con el paso del tiempo.
+    p(data-aos="fade-right") Su desarrollo debe abarcar toda la educación del niño, del joven, del adulto y del anciano para que sea un proceso continuo y permanente que logre prevenir y resolver los problemas ambientales actuales y futuros. 
 
     .bg_9.p-5.mb-4
       .row.justify-content-center        
@@ -22,27 +22,27 @@
             .row.justify-content-center
               .col-12
                 .tarjeta.p-4.bg_color6.h-105
-                  p.text-center Conciencia y sensibilidad ante el ambiente y los desafíos ambientales.
+                  p.text-center <b>Conciencia y sensibilidad ante el ambiente y los desafíos ambientales.</b>
 
             .row.justify-content-center
               .col-12
                 .tarjeta.p-4.bg_color14.h-105
-                  p.text-center Conocimiento y entendimiento del ambiente y los desafíos ambientales.
+                  p.text-center <b>Conocimiento y entendimiento del ambiente y los desafíos ambientales.</b>
 
             .row.justify-content-center
               .col-12
                 .tarjeta.p-4.bg_color6.h-105
-                  p.text-center Actitudes de preocupación por el ambiente y de motivación por mejorar o mantener la calidad ambiental.
+                  p.text-center <b>Actitudes de preocupación por el ambiente y de motivación por mejorar o mantener la calidad ambiental.</b>
 
             .row.justify-content-center
               .col-12
                 .tarjeta.p-4.bg_color14.h-105
-                  p.text-center Habilidades para identificar y contribuir a resolver los desafíos ambientales.
+                  p.text-center <b>Habilidades para identificar y contribuir a resolver los desafíos ambientales.</b>
             
             .row.justify-content-center
               .col-12
                 .tarjeta.p-4.bg_color6.h-105
-                  p.text-center Participación en actividades que contribuyan a resolver los desafíos ambientales.
+                  p.text-center <b>Participación en actividades que contribuyan a resolver los desafíos ambientales.</b>
 
     p.mb-5 En la década de los 70 nace la Educación Ambiental como una respuesta a la preocupación mundial ante el creciente y cada vez más evidente deterioro de los recursos naturales por parte de la mano del hombre. Poniendo en la cuerda floja la insostenibilidad del paradigma del desarrollo industrial de la época, y llevando a los mismos países a buscar la necesidad urgente de plantear cambios en las actividades realizadas por las diferentes ciencias del saber, para dar soluciones claras y concretas a los problemas por los que atraviesa la humanidad; de acuerdo con esta problemática, se da una mirada a las ciencias de la educación como una estrategia pedagógica dentro de los procesos de aprendizaje que busca facilitar la comprensión por parte de los individuos, de la realidad medioambiental de su localidad, región y país.
 
@@ -82,7 +82,7 @@
     .row.justify-content-center.mb-4
       .col-lg-6
         .bg_2.p-2(data-aos="fade-up")
-          p.text-center A continuación, se describen los tipos de capacitación:
+          p.m-0.text-center A continuación, se describen los tipos de capacitación:
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -154,9 +154,9 @@
 
       div(x="12.6%" y="85%" tooltip="Técnicas para el aprendizaje asistido")
         .row.justify-content-center.mb-4
-          .col-6
+          .col-lg-6.col-sm-11
             .bg_color16.p-2
-              h5.text-center Técnicas para el aprendizaje asistido                      
+              h5.m-0.text-center Técnicas para el aprendizaje asistido                      
         .row.justify-content-evenly
           .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
@@ -185,9 +185,9 @@
 
       div(x="38.2%" y="85%" tooltip="Técnicas para el aprendizaje colaborativo")
         .row.justify-content-center.mb-4
-          .col-6
+          .col-11.col-lg-6
             .bg_color16.p-2
-              h5.text-center Técnicas para el aprendizaje colaborativo                 
+              h5.m-0.text-center Técnicas para el aprendizaje colaborativo                 
         .row.justify-content-evenly
           .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
@@ -231,9 +231,9 @@
 
       div(x="64.5%" y="85%" tooltip="Técnicas para el aprendizaje de aplicación")
         .row.justify-content-center.mb-4
-          .col-6
+          .col-11.col-lg-6
             .bg_color16.p-2
-              h5.text-center Técnicas para el aprendizaje de aplicación                      
+              h5.m-0.text-center Técnicas para el aprendizaje de aplicación                      
         .row.justify-content-evenly
           .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color
@@ -265,9 +265,9 @@
 
       div(x="88%" y="85%" tooltip="Técnicas para el aprendizaje autónomo")
         .row.justify-content-center.mb-4
-          .col-6
+          .col-11.col-lg-6
             .bg_color16.p-2
-              h5.text-center Técnicas para el aprendizaje autónomo                
+              h5.m-0.text-center Técnicas para el aprendizaje autónomo                
         .row.justify-content-evenly
           .col-lg-3.ms-0.ms-lg-5
             ul.lista-ul--color

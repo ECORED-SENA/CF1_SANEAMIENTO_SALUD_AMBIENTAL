@@ -7,8 +7,8 @@
         span 4
       h1(data-aos="fade-right") Promotoría Ambiental
 
-    p La promotoría ambiental es la capacidad que tienen diversos actores de la comunidad para promover acciones encaminadas en el cuidado del medio ambiente y la construcción de un futuro que esté basado en modelos de desarrollo sostenible. 
-    p Los promotores ambientales son los principales actores y pilares de la educación ambiental, ya que además de actuar como líderes comunitarios desarrollando proyectos y programas en pro del medio ambiente y la relación con comunidades, también contribuyen a los procesos de sensibilización y educación.  
+    p(data-aos="fade-right") La promotoría ambiental es la capacidad que tienen diversos actores de la comunidad para promover acciones encaminadas en el cuidado del medio ambiente y la construcción de un futuro que esté basado en modelos de desarrollo sostenible. 
+    p(data-aos="fade-right") Los promotores ambientales son los principales actores y pilares de la educación ambiental, ya que además de actuar como líderes comunitarios desarrollando proyectos y programas en pro del medio ambiente y la relación con comunidades, también contribuyen a los procesos de sensibilización y educación.  
 
     .bg_1.p-4.mb-4
       .row.justify-content-center.align-items-center
@@ -39,26 +39,26 @@
         p.mb-4 El Ministerio de Ambiente, Desarrollo Sostenible, viene implementado el Programa 
           span.text_color1 Promotores Ambientales Comunitarios, 
           | como una herramienta para el cumplimiento de la estrategia contenida en la Política Nacional de Educación Ambiental denominada "Formación de Educadores y Dinamizadores Ambientales",  convirtiéndose en el procedimiento que permite implementar programas de capacitación y formación cuyo objetivo principal es promover y cualificar la participación ciudadana en los procesos de planificación, gestión y seguimiento de las políticas, planes, programas y proyectos que orientan el desarrollo sostenible y la educación ambiental tanto en lo local como en lo regional, dentro de los lineamientos del Desarrollo Sostenible.
-
-        TabsC.color-acento-botones(data-aos="fade-down")
-          .py-3.py-md-4(titulo="Objetivos y estrategias")
-            .row.justify-content-center
-              .col-md-2.mb-4.mb-md-0
-                figure
-                  img.img-t.mx-auto(src='@/assets/curso/tema4/img02.svg', alt='Texto que describa la imagen')
-              .col-md-8.mb-3
-                p Los Promotores Ambientales Comunitarios tienen dentro de sus objetivos la participación de la ciudadanía, en donde se agrupen y trabajen conjuntamente para darle solución a las problemáticas ambientales, la preservación de sus tradiciones culturales y el enfoque hacia una educación ambiental comprometida al desarrollo sostenible de cada región. 
-            .row.justify-content-center
-              .col-md-10.mb-4.mb-md-0
-                p La estrategia que se adelanta para suplir las necesidades del desarrollo territorial tiene como finalidad la dinamización de los procesos regionales a parte de la gestión de las corporaciones y entidades territoriales de las diferentes regiones, esto con el fin de fortalecer los procesos que estén directamente orientados a promover objetivos de desarrollo sostenible, que contribuyan a la construcción de una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
-            
-          .py-3.py-md-4(titulo="Funciones y atributos")
-            .row.justify-content-center
-              .col-md-2.mb-4.mb-md-0
-                figure
-                  img.img-t.mx-auto(src='@/assets/curso/tema4/img03.svg', alt='Texto que describa la imagen')
-              .col-md-8
-                p Los promotores ambientales comunitarios son lideres que cuentan con altos grados de sensibilidad y responsabilidad social frente al desarrollo sostenible de las regiones en donde residen, son personas que mediante su constante interés por la comunidad y la solución de los problemas que afronten se han ganado su admiración y respeto. Son destacados por su vocación de servicio, por su saber y conocimiento que le permiten ofrecer respuestas acertadas para llegar a acuerdos entre los diferentes actores sociales. 
+        .bg_14
+          TabsC.color-acento-botones(data-aos="fade-down")
+            .py-3.py-md-4(titulo="Objetivos y estrategias")
+              .row.justify-content-center
+                .col-md-2.mb-4.mb-md-0
+                  figure
+                    img.img-t.mx-auto(src='@/assets/curso/tema4/img02.svg', alt='Texto que describa la imagen')
+                .col-md-8.mb-3
+                  p Los Promotores Ambientales Comunitarios tienen dentro de sus objetivos la participación de la ciudadanía, en donde se agrupen y trabajen conjuntamente para darle solución a las problemáticas ambientales, la preservación de sus tradiciones culturales y el enfoque hacia una educación ambiental comprometida al desarrollo sostenible de cada región. 
+              .row.justify-content-center
+                .col-md-10.mb-4.mb-md-0
+                  p La estrategia que se adelanta para suplir las necesidades del desarrollo territorial tiene como finalidad la dinamización de los procesos regionales a parte de la gestión de las corporaciones y entidades territoriales de las diferentes regiones, esto con el fin de fortalecer los procesos que estén directamente orientados a promover objetivos de desarrollo sostenible, que contribuyan a la construcción de una sociedad comprometida y enfocada en mejorar sus interacciones con el medio ambiente.
+              
+            .py-3.py-md-4(titulo="Funciones y atributos")
+              .row.justify-content-center
+                .col-md-2.mb-4.mb-md-0
+                  figure
+                    img.img-t.mx-auto(src='@/assets/curso/tema4/img03.svg', alt='Texto que describa la imagen')
+                .col-md-8
+                  p Los promotores ambientales comunitarios son lideres que cuentan con altos grados de sensibilidad y responsabilidad social frente al desarrollo sostenible de las regiones en donde residen, son personas que mediante su constante interés por la comunidad y la solución de los problemas que afronten se han ganado su admiración y respeto. Son destacados por su vocación de servicio, por su saber y conocimiento que le permiten ofrecer respuestas acertadas para llegar a acuerdos entre los diferentes actores sociales. 
 
     .row.justify-content-center.align-items-center
       .col-lg-6

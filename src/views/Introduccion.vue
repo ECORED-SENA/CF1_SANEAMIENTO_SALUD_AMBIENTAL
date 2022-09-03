@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1(data-aos="fade-right") Introducción
 
-    p.mb-4 Tanto en Colombia como en los demás países del mundo se están viendo afectados los recursos naturales, bien sea de manera antrópica con la explotación desmesurada, o de manera natural, por lo que es importante identificar y evaluar los aspectos e impactos ambientales que están generando estas afectaciones.
+    p.mb-4(data-aos="fade-right") Tanto en Colombia como en los demás países del mundo se están viendo afectados los recursos naturales, bien sea de manera antrópica con la explotación desmesurada, o de manera natural, por lo que es importante identificar y evaluar los aspectos e impactos ambientales que están generando estas afectaciones.
 
     figure
     .video

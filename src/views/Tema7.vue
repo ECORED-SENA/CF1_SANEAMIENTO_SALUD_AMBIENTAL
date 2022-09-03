@@ -7,7 +7,7 @@
         span 7
       h1(data-aos="fade-right") Participación Comunitaria
 
-    p.mb-4 La participación comunitaria se puede entender como la toma de conciencia de manera colectiva de un grupo de personas, sobre factores que afecten sus necesidades y recursos existentes, formulación de proyectos o actividades, ejecutar proyectos con intereses comunes o evaluar las actividades que se adelantan en proyectos que pretendan incluir a la comunidad. 
+    p(data-aos="fade-right").mb-4 La participación comunitaria se puede entender como la toma de conciencia de manera colectiva de un grupo de personas, sobre factores que afecten sus necesidades y recursos existentes, formulación de proyectos o actividades, ejecutar proyectos con intereses comunes o evaluar las actividades que se adelantan en proyectos que pretendan incluir a la comunidad. 
 
     .bg_13.p-4.mb-5
       .row.justify-content-center.align-items-center
@@ -71,43 +71,43 @@
 
       .row.justify-content-center
         .col-lg-10
-          hr
-          .row.align-items-center
+          hr.color_hr-t7
+          .row.align-items-end
             .col-lg-1
               img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img06.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p(data-aos="fade-left") <b>Participación pasiva:</b> es el impulso inicial que se obtiene ante una información que se recibe con bajo interés, al punto que tiende a desaparecer rápidamente.  
-          hr
-          .row.align-items-center
+              p.m-0(data-aos="fade-left") <b>Participación pasiva:</b> es el impulso inicial que se obtiene ante una información que se recibe con bajo interés, al punto que tiende a desaparecer rápidamente.  
+          hr.color_hr-t7
+          .row.align-items-end
             .col-lg-1
               img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img07.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p(data-aos="fade-left") <b>Participación mediante la consulta:</b> es el medio para lograr la construcción de opiniones frente al tema que se esté tratando, buscando el avance en la toma de decisiones. 
-          hr
-          .row.align-items-center
+              p.m-0(data-aos="fade-left") <b>Participación mediante la consulta:</b> es el medio para lograr la construcción de opiniones frente al tema que se esté tratando, buscando el avance en la toma de decisiones. 
+          hr.color_hr-t7
+          .row.align-items-end
             .col-lg-1
               img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img08.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
               p(data-aos="fade-left") <b>Participación por incentivos: </b>consiste en proveer recursos materiales por trabajo a cambio de alimentos, dinero, entre otros. 
-          hr
-          .row.align-items-center
+          hr.color_hr-t7
+          .row.align-items-end
             .col-lg-1
               img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img09.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p(data-aos="fade-left") <b>Participación funcional: </b>los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
-          hr
-          .row.align-items-center
+              p.m-0(data-aos="fade-left") <b>Participación funcional: </b>los grupos desarrollan acciones y análisis en conjunto, logrando la formulación de planes estratégicos y el fortalecimiento de las comunidades locales.
+          hr.color_hr-t7
+          .row.align-items-end
             .col-lg-1
               img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img10.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p(data-aos="fade-left") <b>Participación interactiva: </b>son las interrelaciones en el interior de la estructura formal de los grupos y las gestiones desarrolladas mediante contactos con organizaciones externas en el logro de objetivos comunitarios. 
-          hr
-          .row.align-items-center
+              p.m-0(data-aos="fade-left") <b>Participación interactiva: </b>son las interrelaciones en el interior de la estructura formal de los grupos y las gestiones desarrolladas mediante contactos con organizaciones externas en el logro de objetivos comunitarios. 
+          hr.color_hr-t7
+          .row.align-items-end
             .col-lg-1
               img.img-t.mx-auto.mb-3.mb-lg-0(src='@/assets/curso/tema7/img11.svg' alt='AvatarTop')(data-aos="fade-right")
             .col-lg-11
-              p(data-aos="fade-left") <b>Participación desarrollada: </b>es la máxima madurez lograda por una organización representada en la toma de iniciativas independientes y con capacidad de responder por las metas de una colectividad.
-          hr
+              p.m-0(data-aos="fade-left") <b>Participación desarrollada: </b>es la máxima madurez lograda por una organización representada en la toma de iniciativas independientes y con capacidad de responder por las metas de una colectividad.
+          hr.color_hr-t7
 
       .row.align-items-center.mb-4(data-aos="fade-right")
         .col-lg-8
